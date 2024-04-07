@@ -6,6 +6,9 @@ Landing page using HTML and CSS
 Full Screen View
 ![Screenshot 2024-04-07 231851](https://github.com/subhashini1609/task1_octaNet_April_internship/assets/166314818/f70970e9-9f58-49e0-9cd9-801ee8d7fbb6)
 
+![Screenshot 2024-04-07 232017](https://github.com/subhashini1609/task1_octaNet_April_internship/assets/166314818/a60ed3bb-e4fc-49dd-9075-ef9c52a62030)
+
+
 Half Screen view
 
 ![Screenshot 2024-04-07 232100](https://github.com/subhashini1609/task1_octaNet_April_internship/assets/166314818/37a35de6-8a79-4cf6-89c1-7957d5536c97)
