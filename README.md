@@ -1,4 +1,4 @@
-# task1_octaNet_April_intership
+# task1_octaNet_April_internship
 Landing page using HTML and CSS
 
 #Output
