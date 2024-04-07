@@ -2,6 +2,7 @@
 Landing page using HTML and CSS
 
 #Output
+
 Full Screen View
 ![Screenshot 2024-04-07 231851](https://github.com/subhashini1609/task1_octaNet_April_internship/assets/166314818/f70970e9-9f58-49e0-9cd9-801ee8d7fbb6)
 
